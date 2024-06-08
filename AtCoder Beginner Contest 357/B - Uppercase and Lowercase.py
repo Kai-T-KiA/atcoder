@@ -1,3 +1,5 @@
+# 問題URL https://atcoder.jp/contests/abc357/tasks/abc357_b
+
 S = input()
 
 upperCount = 0
