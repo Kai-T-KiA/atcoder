@@ -1,3 +1,5 @@
+# 問題URL https://atcoder.jp/contests/abc356/tasks/abc356_a
+
 N, L, R = map(int, input().split())
 
 A = [i+1 for i in range(N)]
