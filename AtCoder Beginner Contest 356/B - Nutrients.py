@@ -1,3 +1,5 @@
+# 問題URL https://atcoder.jp/contests/abc356/tasks/abc356_b
+
 N, M = map(int, input().split())
 
 A = list(map(int, input().split()))
