@@ -1,3 +1,5 @@
+# 問題URL https://atcoder.jp/contests/abc357/tasks/abc357_a
+
 N, M = map(int, input().split())
 
 H = list(map(int, input().split()))
