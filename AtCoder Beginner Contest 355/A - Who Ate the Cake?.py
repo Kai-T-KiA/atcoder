@@ -1,3 +1,5 @@
+# 問題URL https://atcoder.jp/contests/abc355/tasks/abc355_a
+
 A,B = map(int, input().split())
 
 person = [1,2,3]
